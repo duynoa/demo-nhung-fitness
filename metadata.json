@@ -1,0 +1,6 @@
+{
+  "name": "Nhung Fitness - Women Only Gym",
+  "description": "Website chính thức của Nhung Fitness - Phòng tập Gym & Fitness cao cấp dành riêng cho nữ giới",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
