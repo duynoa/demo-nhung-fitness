@@ -423,7 +423,7 @@ export const GALLERY_IMAGES = [
 export const CONTACT_INFO = {
   brandName: 'NHUNG FIT',
   fullName: 'Nhung Fitness - Women Only Fitness Center',
-  address: 'Số 88 Đường Nguyễn Thị Minh Khai, Quận 3, TP. Hồ Chí Minh',
+  address: '3B Đường 37, Linh Đông, Thủ Đức, TP.HCM',
   hotline: '0988.123.456 / 028.7777.8888',
   email: 'cskh@nhungfitness.vn',
   workingHours: 'Thứ 2 - Chủ Nhật: 06:00 - 21:30',
